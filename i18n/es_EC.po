@@ -1,0 +1,50 @@
+# Translation for website_sale_marketplace_journal
+# Language: es_EC
+
+msgid ""
+msgstr ""
+"Project-Id-Version: website_sale_marketplace_journal 17.0\n"
+"POT-Creation-Date: 2026-03-15 00:00+0000\n"
+"PO-Revision-Date: 2026-03-15 00:00+0000\n"
+"Language: es_EC\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. module: website_sale_marketplace_journal
+msgid "Website Sale Marketplace Journal"
+msgstr "Diario de Ventas para Marketplace Web"
+
+#. module: website_sale_marketplace_journal
+msgid "Configure a default sales journal for e-commerce invoices"
+msgstr "Configura un diario de ventas predeterminado para facturas de comercio electronico"
+
+#. module: website_sale_marketplace_journal
+#: model:ir.model.fields,field_description:website_sale_marketplace_journal.field_res_company__marketplace_sale_journal_id
+#: model:ir.model.fields,field_description:website_sale_marketplace_journal.field_res_config_settings__marketplace_sale_journal_id
+#: model_terms:ir.ui.view,arch_db:website_sale_marketplace_journal.res_config_settings_view_form_website_sale_marketplace_journal
+msgid "Marketplace Sale Journal"
+msgstr "Diario de Ventas de Marketplace"
+
+#. module: website_sale_marketplace_journal
+#: model:ir.model.fields,help:website_sale_marketplace_journal.field_res_company__marketplace_sale_journal_id
+msgid "Default sales journal used when creating invoices from e-commerce orders."
+msgstr "Diario de ventas predeterminado usado al crear facturas desde pedidos de comercio electronico."
+
+#. module: website_sale_marketplace_journal
+msgid "The marketplace sale journal must belong to company %(company)s."
+msgstr "El diario de ventas de marketplace debe pertenecer a la compania %(company)s."
+
+#. module: website_sale_marketplace_journal
+msgid "The marketplace sale journal must be a sales journal."
+msgstr "El diario de ventas de marketplace debe ser un diario de ventas."
+
+#. module: website_sale_marketplace_journal
+#: model_terms:ir.ui.view,arch_db:website_sale_marketplace_journal.res_config_settings_view_form_website_sale_marketplace_journal
+msgid "Default journal used when invoicing website/e-commerce orders."
+msgstr "Diario predeterminado usado al facturar pedidos del sitio web/comercio electronico."
+
+#. module: website_sale_marketplace_journal
+#: model_terms:ir.ui.view,arch_db:website_sale_marketplace_journal.res_config_settings_view_form_website_sale_marketplace_journal
+msgid "Must be a sales journal from the selected company."
+msgstr "Debe ser un diario de ventas de la compania seleccionada."
